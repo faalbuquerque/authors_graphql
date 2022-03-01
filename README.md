@@ -1,24 +1,8 @@
-# README
+# Authors graphQL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project main objective is to learn how to build an Authors and articles API with graphql and scopes
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Main features:
+ - Create index, show, create and delete authors
+ - Create scopes inside article`s model
